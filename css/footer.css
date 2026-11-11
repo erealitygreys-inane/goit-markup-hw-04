@@ -1,0 +1,45 @@
+.closing {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #2e2f42;
+}
+
+.closing .container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.closing-info {
+  width: 264px;
+  margin-right: 120px;
+}
+
+.closing .logo {
+  color: #f4f4fd;
+}
+
+.closing-text {
+  margin-top: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.closing-label {
+  margin-bottom: 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.closing .socials {
+  gap: 16px;
+}
+
+.closing .socials-link:hover,
+.closing .socials-link:focus {
+  background-color: #31d0aa;
+}
